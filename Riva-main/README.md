@@ -1,9 +1,3 @@
-This is a great, comprehensive `README` file for your RIVA project. I have removed the emojis and updated the project structure directory to maintain consistency with the new name, giving it a more formal and professional tone suitable for a project repository.
-
-***
-
-# RIVA - AI Voice Assistant
-
 **RIVA** is an intelligent voice-powered AI assistant built for the **NextGen Supercomputing Club** at KIET Group of Institutions. It combines cutting-edge AI technology with an immersive 3D audio visualization experience.
 
 ## Features
@@ -192,7 +186,3 @@ Contributions are welcome. Please feel free to submit issues or pull requests to
 **Built by the NextGen Supercomputing Club**
 
 *Where Intelligence Meets Innovation*
-
-***
-
-Would you like to add a "How it Works" section to briefly explain the data flow, from voice input to AI response and audio output?
